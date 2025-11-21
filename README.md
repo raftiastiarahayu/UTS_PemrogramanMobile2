@@ -35,4 +35,5 @@ kategori menu perlu disimpan sebagai state. Dengan Cubit, aplikasi bisa mengetah
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/f50dc374-2023-49e3-a000-cdefbac31485" />
 <img width="960" height="400" alt="image" src="https://github.com/user-attachments/assets/688c3a33-c04c-4b62-b8ae-76899c5fea43" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/034ddb8a-77b7-4a23-98d4-6d4163bd0daf" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/13cda127-9312-4d8d-99b2-9fd31eaeb988" />
 
