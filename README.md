@@ -31,3 +31,8 @@ Perbedaan: diskon per item lebih granular (promo per menu), diskon total cocok u
 **Note:**
 category_cubit.dart ditambahkan karena pada soal bagian B “Gunakan Cubit untuk memastikan hanya kategori yang dipilih yang aktif.”
 kategori menu perlu disimpan sebagai state. Dengan Cubit, aplikasi bisa mengetahui kategori mana yang sedang dipilih dan otomatis mengubah tampilan pada halaman Stack. Cubit memastikan hanya satu kategori aktif, tampilan mudah diperbarui, dan struktur proyek tetap rapi serta modular sesuai prinsip pemisahan logika bisnis.
+
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/f50dc374-2023-49e3-a000-cdefbac31485" />
+<img width="960" height="400" alt="image" src="https://github.com/user-attachments/assets/688c3a33-c04c-4b62-b8ae-76899c5fea43" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/034ddb8a-77b7-4a23-98d4-6d4163bd0daf" />
+
